@@ -1,0 +1,7 @@
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Trill'\Source\Repos\trilline\CI-CD_Course\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.MvcApplicationPartsAssemblyInfo.cache
