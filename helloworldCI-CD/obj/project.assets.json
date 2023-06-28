@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trill'\\Source\\Repos\\trilline\\CI-CD_Course\\HelloWorldApp\\HelloWorldApp.csproj",
-      "projectName": "HelloWorldApp",
-      "projectPath": "C:\\Users\\Trill'\\Source\\Repos\\trilline\\CI-CD_Course\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectUniqueName": "C:\\Users\\Trill'\\source\\repos\\trilline\\CI-CD_Course\\helloworldCI-CD\\helloworldCI-CD.csproj",
+      "projectName": "helloworldCI-CD",
+      "projectPath": "C:\\Users\\Trill'\\source\\repos\\trilline\\CI-CD_Course\\helloworldCI-CD\\helloworldCI-CD.csproj",
       "packagesPath": "C:\\Users\\Trill'\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Trill'\\Source\\Repos\\trilline\\CI-CD_Course\\HelloWorldApp\\obj\\",
+      "outputPath": "C:\\Users\\Trill'\\source\\repos\\trilline\\CI-CD_Course\\helloworldCI-CD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

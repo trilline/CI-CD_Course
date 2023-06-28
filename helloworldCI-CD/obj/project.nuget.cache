@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLCXTbkd6tlQCTlb9zc+2ulmwrRDODknK21MlzW4WHtHLHBkFywDRv+KybM5tZGLk3B1Qm5ojCzBqtG6NVd2aA==",
+  "dgSpecHash": "iIQv25ntJnxqXLYWZcjswMNjuldaPP1NLpmmxyN76jkQg0AS68CJ2bGwtZNlfSqGj3pyomOW7D+qTWcjFMeIeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Trill'\\Source\\Repos\\trilline\\CI-CD_Course\\HelloWorldApp\\HelloWorldApp.csproj",
+  "projectFilePath": "C:\\Users\\Trill'\\source\\repos\\trilline\\CI-CD_Course\\helloworldCI-CD\\helloworldCI-CD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Trill'\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\Trill'\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
